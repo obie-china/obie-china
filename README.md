@@ -18,7 +18,7 @@
 - [DBT: Data Observability with Elementary-data and Snowflake](https://github.com/obie-china/data-observability-dbt)
 - [DBT: Simple Portfolio Tracking model on Snowflake](https://github.com/obie-china/portfolio-tracking-dbt)
 
-#### Exploratory Data Analytics
+##### Exploratory Data Analytics
 - [Quantifying Rhyming in Music using rap lyrics](https://github.com/obie-china/Check-The-Rhyme)
 
 #### I write about data engineering concepts
