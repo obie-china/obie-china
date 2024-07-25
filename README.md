@@ -1,6 +1,6 @@
 ## Hi there, I am Obiechina👋
 
-- 💻 I’m a data engineer ...
+- 💻 I’m a data engineer
 - 📐 I'm interested in creating great data architecture that scales
 - 🐘 I have been creating data pipelines since 2020 and I have worked extensively with Python and SQL
 
