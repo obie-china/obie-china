@@ -4,7 +4,7 @@
 - 📐 I'm interested in creating great data architecture that scales
 - 🐘 I have been creating data pipelines since 2020 and I have worked extensively with Python and SQL
 
-#### Here are a few projects I would love for you to see
+#### Here are a few projects I would love for you to see:
 ##### Machine Learning
 - [Generating Youtube Titles with LSTM](https://github.com/obie-china/Generating-Youtube-Titles-with-LSTM)
 - [World Cup 2018 Sentiment Analysis](https://github.com/obie-china/FIFA-Sentiment-Analysis)
