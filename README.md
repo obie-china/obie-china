@@ -2,7 +2,7 @@
 
 - 💻 I’m a data engineer
 - 📐 I'm interested in creating great data architecture that scales
-- 🐘 I have been creating data pipelines since 2020 and I have worked extensively with Python and SQL
+- 🐘 I have been creating data pipelines since 2019 and I have worked extensively with Python and SQL
 
 #### Here are a few projects I would love for you to see:
 ##### Machine Learning
